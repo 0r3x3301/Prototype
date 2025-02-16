@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Projects\\Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|d:\\unity\\projects\\prototype\\assets\\scripts\\player\\movementstates\\squatmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movementstates\\squatmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Prototype\\assets\\scripts\\player\\movementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Prototype\\assets\\scripts\\player\\movementstates\\straightmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movementstates\\straightmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SquatMovementState.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T02:50:53.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovementState.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementState.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MovementState.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowC0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T02:31:45.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StraightMovementState.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T02:31:29.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
