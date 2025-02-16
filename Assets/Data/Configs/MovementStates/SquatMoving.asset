@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40c3feb000072094092c48c68716864e, type: 3}
   m_Name: SquatMoving
   m_EditorClassIdentifier: 
-  <WalkSpeed>k__BackingField: 3
-  <RunSpeed>k__BackingField: 5
+  <WalkMaxSpeed>k__BackingField: 1
+  <RunMaxSpeed>k__BackingField: 2
   <IdleAnimationName>k__BackingField: 
   <WalkAnimationName>k__BackingField: 
   <RunAnimationName>k__BackingField: 
