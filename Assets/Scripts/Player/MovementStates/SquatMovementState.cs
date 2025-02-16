@@ -1,14 +1,14 @@
-using System.Threading.Tasks;
-using UnityEngine.AddressableAssets;
+using Zenject;
 
 public class SquatMovementState : MovementState
 {
     public SquatMovementState(IMoving player) : base(player)
     {
-        _config = LoadConfig().Result;
+        _config = LoadConfig();
     }
-    protected override async Task<MovementStateConfig> LoadConfig()
+
+    protected override MovementStateConfig LoadConfig()
     {
-        return await Addressables.LoadAssetAsync<MovementStateConfig>("Assets/Data/Configs/MovementStates/SquatMoving.asset").Task;
+        return ProjectContext.Instance.GetComponent<ConfigsHolder>().SquatMovementStateConfig;
     }
 }

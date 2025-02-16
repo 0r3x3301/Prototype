@@ -20,7 +20,7 @@ public class MovementHandler
     {
         if (Input.GetKey(KeyCode.LeftControl))
         {
-             SetCurentState(typeof(SquatMovementState));
+            SetCurentState(typeof(SquatMovementState));
         }
         else
         {
@@ -35,7 +35,6 @@ public class MovementHandler
         if (_currentState == null || _currentState.GetType() != stateType)
         {
             _currentState = _movementStates[stateType];
-            Debug.Log($"{_currentState}, {stateType}");
         }
     }
 }

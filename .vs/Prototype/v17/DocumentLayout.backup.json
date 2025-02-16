@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unity\\Projects\\Prototype\\",
+  "WorkspaceRootPath": "D:\\Unity\\Projects\\Prototype\\Prototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|d:\\unity\\projects\\prototype\\assets\\scripts\\player\\movementstates\\squatmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|d:\\unity\\projects\\prototype\\prototype\\assets\\scripts\\player\\movementstates\\straightmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movementstates\\straightmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|d:\\unity\\projects\\prototype\\prototype\\assets\\scripts\\player\\movementstates\\squatmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movementstates\\squatmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Prototype\\assets\\scripts\\player\\movementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|d:\\unity\\projects\\prototype\\prototype\\assets\\scripts\\player\\movementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|D:\\Unity\\Projects\\Prototype\\assets\\scripts\\player\\movementstates\\straightmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1235EE4-71EE-C815-28F8-C3378E5ADB84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movementstates\\straightmovementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SquatMovementState.cs",
-              "DocumentMoniker": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
-              "ToolTip": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Title": "StraightMovementState.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Prototype\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Prototype\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T02:50:53.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MovementState.cs",
-              "DocumentMoniker": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementState.cs",
-              "ToolTip": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\MovementState.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowC0AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T02:31:45.63Z",
+              "WhenOpened": "2025-02-16T05:45:31.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StraightMovementState.cs",
-              "DocumentMoniker": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
-              "ToolTip": "D:\\Unity\\Projects\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\MovementStates\\StraightMovementState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Title": "MovementState.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Prototype\\Prototype\\Assets\\Scripts\\Player\\MovementState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementState.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Prototype\\Prototype\\Assets\\Scripts\\Player\\MovementState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MovementState.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T02:31:29.406Z",
+              "WhenOpened": "2025-02-16T05:44:59.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquatMovementState.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Prototype\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Prototype\\Prototype\\Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MovementStates\\SquatMovementState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:44:07.655Z",
               "EditorCaption": ""
             }
           ]
